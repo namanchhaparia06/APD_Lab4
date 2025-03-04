@@ -1,6 +1,1 @@
-Hi, from local pc
-Hi from remote origin
-
-Changes from branch "main"
-
-Changes made for restting exmaple
+Hi from local repository to track changes in jenkins
